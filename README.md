@@ -1,5 +1,5 @@
-# CS @ Haverford ('27) → MSE @ UPenn ('28)
-### Software engineering
+# CS @ Haverford (Winter '27) & MSE CIS @ UPenn (Winter '28)
+### Software engineering, interested in Computing Systems
 
 - 🔬 Past: AI/disease diagnosis research, Brown University
 - 📚 Digital Scholarship Fellow (Full-stack developer), Haverford College Libraries
