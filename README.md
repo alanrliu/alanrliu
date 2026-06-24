@@ -1,4 +1,7 @@
-## one day I'll finally actually write something for here
+# Haverford College (Winter '27), UPenn (Winter '28)
+## Software Dev, Computer Science student, Interested in all things technology
+
+one day I'll finally actually write something for here
 
 <!--
 **alanrliu/alanrliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
