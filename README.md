@@ -6,6 +6,7 @@
 - 🧡 Currently building an advocacy dashboard (full-stack) for Partners in Health Engage
 - 🔧 Into modding, especially consoles, and OS tinkering
 - 📫 aliu5@haverford.edu, [LinkedIn](https://www.linkedin.com/in/alanliu2005/)
+- 💼 [Resume](https://docs.google.com/document/d/1DYWn884b8ezQqc9q-psdEGfd-HaB5m18)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
