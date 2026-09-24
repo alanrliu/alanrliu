@@ -1,9 +1,9 @@
 # CS @ Haverford (Winter '27) & MSE CIS @ UPenn (Winter '28)
-### Software engineering, interested in Computing Systems
+- Minor in Health Studies
+### Software engineering, interested in Computing Systems in Healthcare
 
 - 🔬 Past: AI/disease diagnosis research, Brown University
 - 📚 Digital Scholarship Fellow (Full-stack developer), Haverford College Libraries
-- 🧡 Currently building an advocacy dashboard (full-stack) for Partners in Health Engage
 - 🔧 Into modding, especially consoles, and OS tinkering
 - 📫 aliu5@haverford.edu, [LinkedIn](https://www.linkedin.com/in/alanliu2005/)
 - 💼 [Resume](https://docs.google.com/document/d/1DYWn884b8ezQqc9q-psdEGfd-HaB5m18)
